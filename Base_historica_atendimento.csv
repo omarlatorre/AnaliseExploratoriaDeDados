@@ -1,0 +1,98 @@
+,,,,,,
+LOCAL,SERVICO,STATUS,MOTIVO_CANC,DATA_ABERTURA,DATA_ENCERRAMENTO,DATA_LIMITE_ATENDIMENTO
+"Av. Me. Leônia Milito, 1377 - SALA 9 - Bela Suiça, Londrina - PR",Manutenção,cancelado,Problemas com a Agenda Financeira,18/02/2024,21/02/2024,25/02/2024
+"Av. Tiradentes, 1411 - Jardim Shangri-Lá A, Londrina - PR",Manutenção,sucesso,null,18/02/2024,19/02/2024,25/02/2024
+"R. Prof. João Cândido, 344 - 9180 - 0463 - Centro, Londrina - PR",Manutenção,cancelado,Código de Erro,19/02/2024,21/02/2024,26/02/2024
+"Av. Cândido de Abreu, 526 - Loja 08 - Centro Cívico, Curitiba - PR",Manutenção,cancelado,Problemas com o Banco Emissor,20/02/2024,24/02/2024,27/02/2024
+"PR-317, 5428 - Distrito Industrial 2, Maringá - PR",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,20/02/2024,21/02/2024,27/02/2024
+"Loja Centro. Brasil, 891. Centro, Foz Do Iguacu - PR",Instalação,sucesso,null,21/02/2024,26/02/2024,28/02/2024
+"Avenida das Cataratas, 3570 - Vila Yolanda – Foz do Iguaçu/PR",Manutenção,cancelado,Problemas com a Agenda Financeira,24/02/2024,26/02/2024,03/03/2024
+"Rua José Bocchiglieri, 77 - Vila Sao Jose (Cidade Dutra) São Paulo - SP",Instalação,sucesso,null,13/02/2024,20/02/2024,20/02/2024
+"R. Pio XII, 363 - 01 - Centro, Londrina - PR",Manutenção,cancelado,Contratação de Produtos Específicos,03/07/2024,07/07/2024,10/07/2024
+"Av. São Paulo, 779 - loja 3 e 4 - Centro, Londrina - PR",Manutenção,sucesso,null,26/01/2024,28/01/2024,02/02/2024
+"R. Prof. João Cândido, 184 - Centro, Londrina - PR",Manutenção,cancelado,Problemas com a Agenda Financeira,07/12/2024,11/12/2024,14/12/2024
+"R. Pref. Hugo Cabral, 503 - Centro, Londrina - PR,",Manutenção,sucesso,null,25/11/2024,25/11/2024,02/12/2024
+"Av. Bonifácio Vilela, 166 - Centro, Ponta Grossa - PR",Manutenção,sucesso,null,15/05/2024,19/05/2024,22/05/2024
+"Av. Dr. Vicente Machado, 349 - Centro, Ponta Grossa - PR",Manutenção,sucesso,null,06/12/2024,14/12/2024,13/12/2024
+"R. Balduíno Taques, 778 - Centro, Ponta Grossa - PR,",Instalação,sucesso,null,18/03/2024,26/03/2024,25/03/2024
+"Av. Bonifácio Vilela, 175 - Centro, Ponta Grossa - PR,",Manutenção,cancelado,Interrupção da Operação,03/05/2024,09/05/2024,10/05/2024
+"R. Antônio Saad, 2764 - Boa Vista, Ponta Grossa - PR",Manutenção,cancelado,Inadimplência,19/04/2024,28/04/2024,26/04/2024
+"Av. Bonifácio Vilela, 213 - Centro, Ponta Grossa - PR",Manutenção,cancelado,Problemas com o Banco Emissor,18/07/2024,24/07/2024,25/07/2024
+"Av. Costa e Silva, 185 - Parque Pres. 1, Foz do Iguaçu - PR,",Instalação,sucesso,null,02/07/2024,11/07/2024,09/07/2024
+"R. Mal. Deodoro, 854 - Centro, Foz do Iguaçu - PR,",Manutenção,cancelado,Problemas com a Agenda Financeira,21/09/2024,22/09/2024,28/09/2024
+"R. Alm. Barroso, 2276 - Centro, Foz do Iguaçu - PR,",Manutenção,sucesso,null,11/09/2024,21/09/2024,18/09/2024
+"R. Alm. Barroso, 1360 - Centro, Foz do Iguaçu - PR",Manutenção,cancelado,Interrupção da Operação,20/07/2024,30/07/2024,27/07/2024
+"Av. Silvio Américo Sasdelli, 1803 - Jardim Santa Rosa, Foz do Iguaçu - PR,",Manutenção,cancelado,Inadimplência,08/03/2024,18/03/2024,15/03/2024
+"Av. Costa e Silva, 185 - Parque Pres. 1, Foz do Iguaçu - PR",Instalação,sucesso,null,28/06/2024,02/07/2024,05/07/2024
+"Av. Brasil, 800 - Centro, Foz do Iguaçu - PR",Manutenção,sucesso,null,07/01/2024,08/01/2024,14/01/2024
+"PR-317, 5428 - Distrito Industrial 2, Maringá - PR",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,12/12/2024,14/12/2024,19/12/2024
+"Av. Herval, 401 - Centro - Zona 01, Maringá - PR",Manutenção,sucesso,null,19/03/2024,20/03/2024,26/03/2024
+"Av. Pedro Taques, 2904 - Jardim Alvorada, Maringá - PR",Manutenção,sucesso,null,26/03/2024,31/03/2024,02/04/2024
+"Tv. Júlio de Mesquita Filho, 337 - Sala T - Zona 01, Maringá - PR",Manutenção,sucesso,null,21/11/2024,25/11/2024,28/11/2024
+"R. Piratininga, 75 - Loja 12 - Zona 01, Maringá - PR",Manutenção,cancelado,Interrupção da Operação,27/04/2024,03/05/2024,04/05/2024
+"Rua Joubert de Carvalho - Zona 01, Maringá - PR",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,15/02/2024,23/02/2024,22/02/2024
+"Av. Cerro Azul, 984 - Jardim Novo Horizonte, Maringá - PR",Manutenção,cancelado,Inadimplência,22/05/2024,24/05/2024,29/05/2024
+"Av. Pres. Juscelino K. de Oliveira, 581 - Zona 02, Maringá - PR",Instalação,sucesso,null,10/07/2024,20/07/2024,17/07/2024
+"Av. Pedro Taques, 2238 - Jardim Alvorada, Maringá - PR",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,20/03/2024,28/03/2024,27/03/2024
+"Salão 01 - Av. Maringá, 4821 - Zona III, Umuarama - PR",Instalação,sucesso,null,07/05/2024,15/05/2024,14/05/2024
+"Av. Rolândia, 4161 - Centro, Umuarama - PR",Instalação,cancelado,Inadimplência,15/07/2024,23/07/2024,22/07/2024
+"Av. Paraná, 4282 - Zona I, Umuarama - PR",Instalação,sucesso,null,19/07/2024,26/07/2024,26/07/2024
+"Av. Paraná, 5435 - Zona III, Umuarama - PR",Instalação,sucesso,null,24/10/2024,03/11/2024,31/10/2024
+"Av. Paraná, 4169 - Zona I, Umuarama - PR",Manutenção,cancelado,Inadimplência,29/09/2024,29/09/2024,06/10/2024
+"Av. Rolândia, 4171 - Zona II, Umuarama - PR",Manutenção,sucesso,null,14/01/2024,23/01/2024,21/01/2024
+"R. Min. Oliveira Salazar - Zona III, Umuarama - PR",Manutenção,sucesso,null,02/08/2024,08/08/2024,09/08/2024
+"Av. Paraná, 4680 - Zona III, Umuarama - PR",Manutenção,sucesso,null,09/09/2024,16/09/2024,16/09/2024
+"Av. Goiás, 326 - Zona 1, Cianorte - PR",Instalação,sucesso,null,18/03/2024,23/03/2024,25/03/2024
+"Av. Paraná, 52B - Centro, Cianorte - PR",Manutenção,sucesso,null,03/12/2024,09/12/2024,10/12/2024
+"Av. Paraná, 108 - Centro, Cianorte - PR",Manutenção,cancelado,Mudança de Domicílio Bancário,18/03/2024,18/03/2024,25/03/2024
+"R. Piratininga, 340 - centro, Cianorte - PR",Manutenção,sucesso,null,07/11/2024,15/11/2024,14/11/2024
+"Av. Souza Naves, 420 - Centro, Cianorte - PR",Manutenção,cancelado,Inadimplência,10/04/2024,11/04/2024,17/04/2024
+"R. Piratininga, 306 - Centro, Cianorte - PR",Manutenção,cancelado,Interrupção da Operação,23/02/2024,26/02/2024,01/03/2024
+"Av. Me. Leônia Milito, 1377 - SALA 9 - Bela Suiça, Londrina - PR",Instalação,sucesso,null,02/05/2024,05/05/2024,09/05/2024
+"Av. Tiradentes, 1411 - Jardim Shangri-Lá A, Londrina - PR",Manutenção,cancelado,Mudança de Domicílio Bancário,15/05/2024,18/05/2024,22/05/2024
+"R. Prof. João Cândido, 344 - 9180 - 0463 - Centro, Londrina - PR",Manutenção,cancelado,Contratação de Produtos Específicos,22/02/2024,01/03/2024,29/02/2024
+"Av. Cândido de Abreu, 526 - Loja 08 - Centro Cívico, Curitiba - PR",Instalação,cancelado,Excesso de Solicitações de Cancelamento,08/04/2024,10/04/2024,15/04/2024
+"PR-317, 5428 - Distrito Industrial 2, Maringá - PR",Manutenção,cancelado,Código de Erro,10/08/2024,15/08/2024,17/08/2024
+"Loja Centro. Brasil, 891. Centro, Foz Do Iguacu - PR",Instalação,cancelado,Problemas com o Banco Emissor,02/04/2024,11/04/2024,09/04/2024
+"Avenida das Cataratas, 3570 - Vila Yolanda – Foz do Iguaçu/PR",Instalação,sucesso,null,14/04/2024,17/04/2024,21/04/2024
+"Rua José Bocchiglieri, 77 - Vila Sao Jose (Cidade Dutra) São Paulo - SP",Instalação,cancelado,Excesso de Solicitações de Cancelamento,26/04/2024,26/04/2024,03/05/2024
+"R. Pio XII, 363 - 01 - Centro, Londrina - PR",Manutenção,cancelado,Problemas com o Banco Emissor,02/08/2024,09/08/2024,09/08/2024
+"Av. São Paulo, 779 - loja 3 e 4 - Centro, Londrina - PR",Instalação,sucesso,null,13/10/2024,20/10/2024,20/10/2024
+"R. Prof. João Cândido, 184 - Centro, Londrina - PR",Manutenção,cancelado,Contratação de Produtos Específicos,13/06/2024,22/06/2024,20/06/2024
+"R. Pref. Hugo Cabral, 503 - Centro, Londrina - PR,",Instalação,sucesso,null,13/11/2024,21/11/2024,20/11/2024
+"Av. Bonifácio Vilela, 166 - Centro, Ponta Grossa - PR",Manutenção,cancelado,Contratação de Produtos Específicos,05/05/2024,10/05/2024,12/05/2024
+"Av. Dr. Vicente Machado, 349 - Centro, Ponta Grossa - PR",Manutenção,cancelado,Código de Erro,27/11/2024,04/12/2024,04/12/2024
+"R. Balduíno Taques, 778 - Centro, Ponta Grossa - PR,",Instalação,sucesso,null,14/01/2024,16/01/2024,21/01/2024
+"Av. Bonifácio Vilela, 175 - Centro, Ponta Grossa - PR,",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,27/09/2024,28/09/2024,04/10/2024
+"R. Antônio Saad, 2764 - Boa Vista, Ponta Grossa - PR",Manutenção,sucesso,null,03/11/2024,03/11/2024,10/11/2024
+"Av. Bonifácio Vilela, 213 - Centro, Ponta Grossa - PR",Manutenção,cancelado,Problemas com o Banco Emissor,08/12/2024,11/12/2024,15/12/2024
+"Av. Costa e Silva, 185 - Parque Pres. 1, Foz do Iguaçu - PR,",Instalação,sucesso,null,23/04/2024,25/04/2024,30/04/2024
+"R. Mal. Deodoro, 854 - Centro, Foz do Iguaçu - PR,",Manutenção,cancelado,Problemas com a Agenda Financeira,01/02/2024,02/02/2024,08/02/2024
+"R. Alm. Barroso, 2276 - Centro, Foz do Iguaçu - PR,",Instalação,sucesso,null,20/02/2024,24/02/2024,27/02/2024
+"R. Alm. Barroso, 1360 - Centro, Foz do Iguaçu - PR",Manutenção,sucesso,null,10/02/2024,16/02/2024,17/02/2024
+"Av. Silvio Américo Sasdelli, 1803 - Jardim Santa Rosa, Foz do Iguaçu - PR,",Manutenção,cancelado,Interrupção da Operação,12/02/2024,19/02/2024,19/02/2024
+"Av. Costa e Silva, 185 - Parque Pres. 1, Foz do Iguaçu - PR",Instalação,sucesso,null,04/05/2024,08/05/2024,11/05/2024
+"Av. Brasil, 800 - Centro, Foz do Iguaçu - PR",Manutenção,sucesso,null,01/09/2024,06/09/2024,08/09/2024
+"PR-317, 5428 - Distrito Industrial 2, Maringá - PR",Manutenção,cancelado,Problemas com a Agenda Financeira,01/03/2024,10/03/2024,08/03/2024
+"Av. Herval, 401 - Centro - Zona 01, Maringá - PR",Instalação,cancelado,Inadimplência,15/09/2024,20/09/2024,22/09/2024
+"Av. Pedro Taques, 2904 - Jardim Alvorada, Maringá - PR",Instalação,cancelado,Excesso de Solicitações de Cancelamento,14/05/2024,14/05/2024,21/05/2024
+"Tv. Júlio de Mesquita Filho, 337 - Sala T - Zona 01, Maringá - PR",Instalação,cancelado,Interrupção da Operação,18/10/2024,28/10/2024,25/10/2024
+"R. Piratininga, 75 - Loja 12 - Zona 01, Maringá - PR",Instalação,sucesso,null,30/08/2024,08/09/2024,06/09/2024
+"Rua Joubert de Carvalho - Zona 01, Maringá - PR",Manutenção,cancelado,Problemas com a Agenda Financeira,03/10/2024,09/10/2024,10/10/2024
+"Av. Cerro Azul, 984 - Jardim Novo Horizonte, Maringá - PR",Instalação,sucesso,null,09/02/2024,09/02/2024,16/02/2024
+"Av. Pres. Juscelino K. de Oliveira, 581 - Zona 02, Maringá - PR",Instalação,sucesso,null,04/07/2024,06/07/2024,11/07/2024
+"Av. Pedro Taques, 2238 - Jardim Alvorada, Maringá - PR",Manutenção,cancelado,Interrupção da Operação,09/12/2024,14/12/2024,16/12/2024
+"Salão 01 - Av. Maringá, 4821 - Zona III, Umuarama - PR",Instalação,sucesso,null,05/12/2024,11/12/2024,12/12/2024
+"Av. Rolândia, 4161 - Centro, Umuarama - PR",Instalação,sucesso,null,29/11/2024,01/12/2024,06/12/2024
+"Av. Paraná, 4282 - Zona I, Umuarama - PR",Manutenção,sucesso,null,20/02/2024,24/02/2024,27/02/2024
+"Av. Paraná, 5435 - Zona III, Umuarama - PR",Manutenção,sucesso,null,30/12/2024,05/01/2025,06/01/2025
+"Av. Paraná, 4169 - Zona I, Umuarama - PR",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,22/03/2024,31/03/2024,29/03/2024
+"Av. Rolândia, 4171 - Zona II, Umuarama - PR",Manutenção,cancelado,Problemas com o Banco Emissor,14/04/2024,19/04/2024,21/04/2024
+"R. Min. Oliveira Salazar - Zona III, Umuarama - PR",Manutenção,cancelado,Código de Erro,22/05/2024,28/05/2024,29/05/2024
+"Av. Paraná, 4680 - Zona III, Umuarama - PR",Instalação,sucesso,null,29/11/2024,06/12/2024,06/12/2024
+"Av. Goiás, 326 - Zona 1, Cianorte - PR",Manutenção,cancelado,Problemas com a Agenda Financeira,21/03/2024,22/03/2024,28/03/2024
+"Av. Paraná, 52B - Centro, Cianorte - PR",Manutenção,cancelado,Excesso de Solicitações de Cancelamento,14/11/2024,22/11/2024,21/11/2024
+"Av. Paraná, 108 - Centro, Cianorte - PR",Manutenção,cancelado,Mudança de Domicílio Bancário,07/09/2024,07/09/2024,14/09/2024
+"R. Piratininga, 340 - centro, Cianorte - PR",Manutenção,cancelado,Contratação de Produtos Específicos,12/07/2024,20/07/2024,19/07/2024
+"Av. Souza Naves, 420 - Centro, Cianorte - PR",Instalação,sucesso,null,17/12/2024,19/12/2024,24/12/2024
+"R. Piratininga, 306 - Centro, Cianorte - PR",Manutenção,cancelado,Contratação de Produtos Específicos,26/06/2024,30/06/2024,03/07/2024
